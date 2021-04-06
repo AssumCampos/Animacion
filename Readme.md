@@ -26,7 +26,7 @@ This project was created by:
 Email: assumcampos@gmail.com
 Portfolio: Coming soon
 
-## Licencia 📄
+## License 📄
 
 License  - Look the [LICENSE.md](LICENSE.txt) for more details
 
