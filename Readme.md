@@ -12,13 +12,13 @@ For install the addon, you click in: Edit/Preferences/Add-ons. Then press Instal
 you can see in the rigth side of main menu ofblender in the Object properties a new addon that names: Generador de copias.
 
 
-### Pre-requisitos 📋
+### Pre-requisites 📋
 
 You have to install the free application Blender 2.8.
 https://www.blender.org/
 
 
-## Autores ✒️
+## Authors ✒️
 
 This project was created by:
 
