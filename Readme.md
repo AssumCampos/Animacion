@@ -7,7 +7,7 @@ This is a addon for Blender in Python.
 
 ## Getting Start 🚀
 
-Important! The addon.zip have to be decompress!
+Important! The addon.zip must not be decompressed!
 For install the addon, you click in: Edit/Preferences/Add-ons. Then press Install and then find the addon.zip. If you check the checkbox of "Generador de copias" 
 you can see in the rigth side of main menu ofblender in the Object properties a new addon that names: Generador de copias.
 
